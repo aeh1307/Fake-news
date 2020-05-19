@@ -2,7 +2,7 @@
 
 ## What is this
 
-This is the repo for the INFO381 group DeepFakes.
+This is the repo for the INFO381 group FakeNews.
 Here you will find our dataset(gender_modified.csv) and training models(models/trained) as described in our report.
 
 
