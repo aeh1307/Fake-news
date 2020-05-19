@@ -3,7 +3,7 @@
 ## What is this
 
 This is the repo for the INFO381 group DeepFakes.
-Here you will find our dataset and training models as described in our report.
+Here you will find our dataset(gender_modified.csv) and training models(models/trained) as described in our report.
 
 
 ## How to load training models
